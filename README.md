@@ -4,7 +4,7 @@ Este desafio envolve a modelagem e diagramação da representação em UML e Có
 ## Interfaces e Classes
 As seguintes interfaces e classes foram criadas:
 
-### Interfaces
+### INterfaces
 - **ReprodutorMusical**: Métodos para tocar, pausar e selecionar música.
 - **AparelhoTelefonico**: Métodos para ligar, atender e iniciar correio de voz.
 - **NavegadorInternet**: Métodos para exibir página, adicionar nova aba e atualizar página.
